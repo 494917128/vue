@@ -49,7 +49,7 @@ export default{
 					content: '',
 				}],
 				[{
-					text: '会用',
+					text: '熟悉',
 					href: '',
 					content: '',
 				}],
@@ -81,9 +81,21 @@ export default{
 					text: 'hbuilder',
 					href: '',
 					content: '',
+				},{
+					text: 'react',
+					href: '',
+					content: '',
+				},{
+					text: 'less',
+					href: '',
+					content: '',
+				},{
+					text: '微信小游戏',
+					href: '',
+					content: '',
 				}],
 				[{
-					text: '以下只会一点',
+					text: '了解',
 					href: '',
 					content: '',
 				}],
@@ -96,7 +108,7 @@ export default{
 					href: '',
 					content: '',
 				},{
-					text: 'react',
+					text: 'reactNative',
 					href: '',
 					content: '',
 				}],
